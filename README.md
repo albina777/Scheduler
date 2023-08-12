@@ -23,4 +23,4 @@ The class was expanded to handle  operations such as loading and saving schedule
 new items to the schedule, and handling invalid user inputs.
 
 
-** Used Spring framework for GUI 
+** For GUI used Spring framework
